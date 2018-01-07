@@ -1,0 +1,6 @@
+higher order component = adds functionality to existing component
+  (like a mixin)
+
+component + higher order component = "composed component" or "enhanced component"
+
+react redux components are higher order components.
